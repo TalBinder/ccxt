@@ -52,10 +52,10 @@ module.exports = class bit2c extends Exchange {
                 },
             },
             'markets': {
-                'BTC/NIS': { 'id': 'BtcNis', 'symbol': 'BTC/NIS', 'base': 'BTC', 'quote': 'NIS' },
-                'BCH/NIS': { 'id': 'BchNis', 'symbol': 'BCH/NIS', 'base': 'BCH', 'quote': 'NIS' },
-                'LTC/NIS': { 'id': 'LtcNis', 'symbol': 'LTC/NIS', 'base': 'LTC', 'quote': 'NIS' },
-                'BTG/NIS': { 'id': 'BtgNis', 'symbol': 'BTG/NIS', 'base': 'BTG', 'quote': 'NIS' },
+                'BTC/ILS': { 'id': 'BtcIls', 'symbol': 'BTC/ILS', 'base': 'BTC', 'quote': 'ILS' },
+                'BCH/ILS': { 'id': 'BchIls', 'symbol': 'BCH/ILS', 'base': 'BCH', 'quote': 'ILS' },
+                'LTC/ILS': { 'id': 'LtcIls', 'symbol': 'LTC/ILS', 'base': 'LTC', 'quote': 'ILS' },
+                'BTG/ILS': { 'id': 'BtgIls', 'symbol': 'BTG/ILS', 'base': 'BTG', 'quote': 'ILS' },
             },
             'fees': {
                 'trading': {
